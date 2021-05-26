@@ -1,1 +1,3 @@
-this is a test file
+#Test Script
+#simple script
+@echo Hello world
