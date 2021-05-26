@@ -1,3 +1,4 @@
 - added a new line on remote repositority
 - added further edits
 -and addtional edits for final commit
+- added line for git push/pull checks
